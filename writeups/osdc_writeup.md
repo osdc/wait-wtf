@@ -39,8 +39,8 @@ $ ip address    # to view network interfaces
 ```
 
 ![challenge 2](https://vitux.com/wp-content/uploads/word-image-2764.png?ezimgfmt=ng:webp/ngcb10)
-in the above example the interface enp0s3 is currently down
 
+in the above example the interface enp0s3 is currently down
 ```
 $ sudo ifconfig enp0s3 up
 ```
