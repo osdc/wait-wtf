@@ -1,4 +1,5 @@
-# 
+![image](https://user-images.githubusercontent.com/37214399/226095696-218207cb-136f-494f-9d86-4266147f94d5.png)
+
 
 # 00 
 Boot the image in vmware.
