@@ -9,7 +9,7 @@ Open the terminal in Ubuntu (wink, wink, there's a nice and handy shortcut for t
 Figure out how to exit Vim.
 Stop making the process run whenever a new terminal session is opened.
 
-# I can't access the internet? - 10 Points
+# I can't access the internet? - 50 Points
 yes, there must be a way to find out what's wrong here.
 
 ## wait, wtf happened to sudo? - 0 P0ints
