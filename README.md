@@ -2,6 +2,8 @@
 
 **A contest about working with unfamiliar technologies and using the web to figure out What The Fix is.**
 
+# The Challenges can be found over [here](challenges.md).
+
 # Here are some resources to get you familiar with using the linux command line:
 - [Linux Journey](https://linuxjourney.com/)
 - [Linux Survival](https://linuxsurvival.com/)
