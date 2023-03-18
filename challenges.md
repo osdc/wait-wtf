@@ -8,9 +8,13 @@ Open the terminal in Ubuntu (wink, wink, there's a nice and handy shortcut for t
 # The terminal always opens in Vim. - 10 Points
 Figure out how to exit Vim.
 Stop making the process run whenever a new terminal session is opened.
+(hint: you can start by looking up ways *how* to make a process run whenever a new terminal session is opened.)
+
 
 # I can't access the internet? - 50 Points
 yes, there must be a way to find out what's wrong here.
+hint: look into how to display all network interfaces and set them up or down.
+hint hint: maybe something like `ifconfig`.
 
 ## wait, wtf happened to sudo? - 0 P0ints
 Users can run commands and some commands require root permissions ("Admin access"). 
